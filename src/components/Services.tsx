@@ -25,7 +25,7 @@ const Services = () => {
       icon: <MapPin className="w-8 h-8 text-amber-600" />,
       title: "Transportation Services",
       description: "Dignified transportation of the deceased and support for family travel arrangements.",
-      features: ["Hearse services", "Family transportation", "International repatriation"]
+      features: ["Hearse services", "Transportation of the decreased", "International liaison"]
     },
     {
       icon: <CheckCircle className="w-8 h-8 text-emerald-600" />,
