@@ -70,7 +70,7 @@ const ServicesPage = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             <div>
               <img 
-                src="https://ik.imagekit.io/monarclabs/Janzah/9143afad315187cb63588b70e66fe152.jpg?updatedAt=1753058965817" 
+                src="https://ik.imagekit.io/monarclabs/Janzah/janazah-explained-islamic-funeral-and-burial-rites-in-plain-language-what-families-can-expect-1078249.webp" 
                 alt="Lit candles symbolizing remembrance and peace"
                 className="w-full h-[1000px] object-cover rounded-xl shadow-md"
               />
