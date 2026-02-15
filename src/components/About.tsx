@@ -64,7 +64,7 @@ the objects of the Group. <br/>
 
           <div className="relative">
             <img 
-              src="https://ik.imagekit.io/monarclabs/Janzah/izuddin-helmi-adnan-JFirQekVo3U-unsplash.jpg?updatedAt=1753058974459" 
+              src="https://ik.imagekit.io/monarclabs/Janzah/50a896ed95c5c011b555ce0bf9435757.jpg" 
               alt="Hands holding white flowers symbolizing remembrance and compassion"
               className="w-full h-96 object-cover rounded-2xl shadow-lg"
             />
