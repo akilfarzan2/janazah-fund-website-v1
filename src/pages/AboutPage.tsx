@@ -62,7 +62,7 @@ const AboutPage = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             <div>
               <img 
-                src="https://ik.imagekit.io/monarclabs/Janzah/9143afad315187cb63588b70e66fe152.jpg?updatedAt=1753058965817" 
+                src="https://ik.imagekit.io/monarclabs/Janzah/How-to-Offer-the-Funeral-Prayer.jpg" 
                 alt="Person comforting another during difficult times"
                 className="w-full h-64 object-cover rounded-xl shadow-md mb-8"
               />
